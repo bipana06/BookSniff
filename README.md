@@ -1,4 +1,4 @@
-📚BookSniff
+# 📚BookSniff
 
 This application retrieves best seller categories from teh New York TImes Books API and when the user clicks any of the categories, it displays books with its few details under the selected category. 
 
@@ -67,4 +67,4 @@ Once the app is running,
 
 ## Credits
 
-The project was developed with the assistance of ChatGPT. Most of the inline styling used in the project was done by ChatGPT. Learned about and integrated the `useEffect()` function solely with the help of AI. Not any code portion was entirely genereted by any AIs. Finally, professor's video resource was referenced frequently. 
+The project was developed with the assistance of ChatGPT where it was mostly used for inline styling. I Learned about and integrated the `useEffect()` function solely with the help of AI. Neither of any other code portions was entirely genereted by any AIs. Finally, professor's video resource was referenced frequently. 
